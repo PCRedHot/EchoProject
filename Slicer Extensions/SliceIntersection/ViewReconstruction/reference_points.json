@@ -1,0 +1,233 @@
+{
+  "4 chamber view (A4C)": [
+    {
+      "structure": "MV tip",
+      "xy": [
+        271.5315620771505,
+        243.57475033827973
+      ]
+    },
+    {
+      "structure": "A4C-TV tip",
+      "xy": [
+        201.12181399406828,
+        251.85825011275995
+      ]
+    },
+    {
+      "structure": "A4C-LV apex",
+      "xy": [
+        251.8582501127599,
+        383.35880903263404
+      ]
+    },
+    {
+      "structure": "Medial mitral annulus",
+      "xy": [
+        240.46843792284955,
+        220.79512595845904
+      ]
+    },
+    {
+      "structure": "Lateral mitral annulus",
+      "xy": [
+        307.77187359050157,
+        214.5825011275988
+      ]
+    },
+    {
+      "structure": "Tricuspid annulus",
+      "xy": [
+        150.38537787537672,
+        228.04318826112922
+      ]
+    }
+  ],
+  "2 chamber view (A2C)": [
+    {
+      "structure": "A2C-LV apex",
+      "xy": [
+        241.42768425911902,
+        390.6682971915901
+      ]
+    },
+    {
+      "structure": "Anterolateral mitral annulus",
+      "xy": [
+        299.7169472226431,
+        216.80549559349248
+      ]
+    },
+    {
+      "structure": "Posteromedial mitral annulus",
+      "xy": [
+        236.40274779674627,
+        217.81048288596702
+      ]
+    }
+  ],
+  "Long-axis view (ALAX)": [
+    {
+      "structure": "ALAX-LV apex",
+      "xy": [
+        241.4276842591189,
+        381.62341155931915
+      ]
+    },
+    {
+      "structure": "Aortic annulus",
+      "xy": [
+        323.8366422420322,
+        246.95511436772907
+      ]
+    },
+    {
+      "structure": "Anterior mitral annulus",
+      "xy": [
+        301.72692180759213,
+        208.76559725369606
+      ]
+    },
+    {
+      "structure": "Posterior mitral annulus",
+      "xy": [
+        235.39776050427162,
+        212.7855464235943
+      ]
+    }
+  ],
+  "Basal short-axis view (SAXB)": [
+    {
+      "structure": "Center of AV",
+      "xy": [
+        246.63710550254802,
+        285.12900510318417
+      ]
+    },
+    {
+      "structure": "IAS",
+      "xy": [
+        237.27421100509588,
+        235.19356778343996
+      ]
+    },
+    {
+      "structure": "SAXB-TV tip",
+      "xy": [
+        187.33877368535173,
+        290.3306131573242
+      ]
+    }
+  ],
+  "MV short-axis view (SAXMV)": [
+    {
+      "structure": "MV anterior leaflet A1",
+      "xy": [
+        284.08868349235604,
+        261.20160805413997
+      ]
+    },
+    {
+      "structure": "MV anterior leaflet  A2",
+      "xy": [
+        270.564502551592,
+        248.71774872420394
+      ]
+    },
+    {
+      "structure": "MV anterior leaflet  A3",
+      "xy": [
+        255.99999999999994,
+        234.1532461726119
+      ]
+    },
+    {
+      "structure": "MV posterior leaflet P1",
+      "xy": [
+        296.5725428222921,
+        250.7983919458599
+      ]
+    },
+    {
+      "structure": "MV posterior leaflet P2",
+      "xy": [
+        287.2096483248401,
+        232.07260295095585
+      ]
+    },
+    {
+      "structure": "MV posterior leaflet P3",
+      "xy": [
+        270.564502551592,
+        224.79035167515983
+      ]
+    }
+  ],
+  "Mid LV short-axis view (SAXM)": [
+    {
+      "structure": "Anterolateral papillary muscle",
+      "xy": [
+        315.3166747647126,
+        250.60757502138975
+      ]
+    },
+    {
+      "structure": "Posteromedial papillary muscle",
+      "xy": [
+        275.4127299229968,
+        221.48848013689445
+      ]
+    },
+    {
+      "structure": "IVS",
+      "xy": [
+        241.9796950556133,
+        250.60757502138975
+      ]
+    },
+    {
+      "structure": "IW",
+      "xy": [
+        290.5115198631055,
+        189.13393026523295
+      ]
+    },
+    {
+      "structure": "LV",
+      "xy": [
+        288.3545498716614,
+        244.13666504705748
+      ]
+    },
+    {
+      "structure": "RV",
+      "xy": [
+        206.3896901967857,
+        254.92151500427795
+      ]
+    }
+  ],
+  "Apical LV short-axis view (SAXA)": [
+    {
+      "structure": "Interventricular septum",
+      "xy": [
+        233.11292456178384,
+        239.35485422675194
+      ]
+    },
+    {
+      "structure": "SAXA-LV apex",
+      "xy": [
+        271.60482416242,
+        242.4758190592359
+      ]
+    },
+    {
+      "structure": "RV apex",
+      "xy": [
+        219.58874362101977,
+        240.39517583757996
+      ]
+    }
+  ]
+}
