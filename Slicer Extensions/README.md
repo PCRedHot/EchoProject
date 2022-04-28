@@ -7,8 +7,9 @@ This includes
 * PhilipsDicomPatcher (in use)
 * ViewReconstruction (in use)
 
-Please use Slicer 4.13 for ViewReconstruction
-PhilipsDicomPatcher could be used in v4.11 or v4.13
+Please use Slicer 4.13 for ViewReconstruction.
+
+PhilipsDicomPatcher could be used in v4.11 or v4.13.
 
 ## PhilipsDicomPatcher
 * Check the box to Export NRRD Files
