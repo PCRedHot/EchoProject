@@ -12,8 +12,10 @@
 ![image](https://user-images.githubusercontent.com/43814396/164043638-5756634f-b4e9-4ced-95ba-4516dd32831b.png)
 
 * Check the box of create sub-folders for Patient, Study, Series
+* Check the box of Export DICOM planes to separate files
 
-![image](https://user-images.githubusercontent.com/43814396/164043862-504ee482-bad5-4afa-999c-4f2c1e2d12f1.png)
+![image](https://user-images.githubusercontent.com/43814396/167857398-63432cd1-fad7-4394-9159-2b1851c15415.png)
+
 
 ## Filtering, Greyscale, Remove Overlay
 * Done by 2DImageExtractAndPreprocessing.py
